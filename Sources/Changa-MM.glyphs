@@ -68575,6 +68575,43 @@ value = "--fallback-stem-width=65";
 }
 );
 interpolationWeight = 65;
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+A,
+d,
+h,
+e,
+s,
+i,
+o,
+n,
+one,
+two,
+six,
+T,
+e,
+x,
+t,
+exclam,
+g,
+H,
+O,
+N,
+V
+);
+},
+{
+name = "TTFAutohint options";
+value = "--hinting-limit=110 --fallback-stem-width=80 --detailed-info";
+}
+);
+interpolationWeight = 80;
 name = Light;
 weightClass = Light;
 },
@@ -68608,10 +68645,9 @@ V
 },
 {
 name = "TTFAutohint options";
-value = "--hinting-limit=110 --fallback-stem-width=90";
+value = "--hinting-limit=150 --fallback-stem-width=100 --detailed-info";
 }
 );
-interpolationWeight = 90;
 name = Regular;
 },
 {
@@ -68644,10 +68680,89 @@ V
 },
 {
 name = "TTFAutohint options";
-value = "--hinting-limit=150 --fallback-stem-width=140";
+value = "--hinting-limit=150 --fallback-stem-width=123 --detailed-info";
 }
 );
-interpolationWeight = 140;
+interpolationWeight = 123;
+name = Medium;
+weightClass = Medium;
+},
+{
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+A,
+d,
+h,
+e,
+s,
+i,
+o,
+n,
+one,
+two,
+six,
+T,
+e,
+x,
+t,
+exclam,
+g,
+H,
+O,
+N,
+V
+);
+},
+{
+name = "TTFAutohint options";
+value = "--hinting-limit=150 --fallback-stem-width=149 --detailed-info";
+}
+);
+interpolationWeight = 149;
+name = SemiBold;
+weightClass = SemiBold;
+},
+{
+customParameters = (
+{
+name = "Instance Preview";
+value = (
+A,
+d,
+h,
+e,
+s,
+i,
+o,
+n,
+one,
+two,
+six,
+T,
+e,
+x,
+t,
+exclam,
+g,
+H,
+O,
+N,
+V
+);
+},
+{
+name = "TTFAutohint options";
+value = "--hinting-limit=150 --fallback-stem-width=176 --detailed-info";
+},
+{
+name = "New Parameter";
+value = "New Value";
+}
+);
+interpolationWeight = 176;
+isBold = 1;
 name = Bold;
 weightClass = Bold;
 },
@@ -68681,12 +68796,12 @@ V
 },
 {
 name = "TTFAutohint options";
-value = "--hinting-limit=220 --fallback-stem-width=200";
+value = "--hinting-limit=220 --fallback-stem-width=200 --detailed-info";
 }
 );
 interpolationWeight = 200;
-name = Black;
-weightClass = Black;
+name = ExtraBold;
+weightClass = ExtraBold;
 }
 );
 kerning = {
