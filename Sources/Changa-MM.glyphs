@@ -1,6 +1,6 @@
 {
 .appVersion = "851";
-copyright = "Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name Changa"";
+copyright = "Copyright 2011 Eduardo Tunni (www.tipo.net.ar)";
 customParameters = (
 {
 name = licenseURL;
