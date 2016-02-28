@@ -68571,7 +68571,7 @@ V
 },
 {
 name = "TTFAutohint options";
-value = "--fallback-stem-width=65";
+value = "--fallback-stem-width=65 --detailed-info";
 }
 );
 interpolationWeight = 65;
