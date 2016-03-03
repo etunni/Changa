@@ -124,48 +124,6 @@ alignmentZones = (
 );
 ascender = 1100;
 capHeight = 625;
-customParameters = (
-{
-name = typoAscender;
-value = "677";
-},
-{
-name = typoDescender;
-value = "-177";
-},
-{
-name = typoLineGap;
-value = "0";
-},
-{
-name = winAscent;
-value = "1100";
-},
-{
-name = winDescent;
-value = "-300";
-},
-{
-name = hheaAscender;
-value = "1100";
-},
-{
-name = hheaDescender;
-value = "-300";
-},
-{
-name = hheaLineGap;
-value = "0";
-},
-{
-name = underlinePosition;
-value = "-100";
-},
-{
-name = underlineThickness;
-value = "50";
-}
-);
 descender = -300;
 guideLines = (
 {
@@ -217,48 +175,6 @@ alignmentZones = (
 );
 ascender = 1100;
 capHeight = 625;
-customParameters = (
-{
-name = typoAscender;
-value = "677";
-},
-{
-name = typoDescender;
-value = "-177";
-},
-{
-name = typoLineGap;
-value = "0";
-},
-{
-name = winAscent;
-value = "1100";
-},
-{
-name = winDescent;
-value = "-300";
-},
-{
-name = hheaAscender;
-value = "1100";
-},
-{
-name = hheaDescender;
-value = "-300";
-},
-{
-name = hheaLineGap;
-value = "0";
-},
-{
-name = underlinePosition;
-value = "-100";
-},
-{
-name = underlineThickness;
-value = "50";
-}
-);
 descender = -300;
 guideLines = (
 {
@@ -68577,6 +68493,46 @@ V
 {
 name = "TTFAutohint options";
 value = "--fallback-stem-width=65 --detailed-info";
+},
+{
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 interpolationWeight = 65;
@@ -68614,6 +68570,46 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=110 --fallback-stem-width=80 --detailed-info";
+},
+{
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 interpolationWeight = 80;
@@ -68651,6 +68647,46 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=100 --detailed-info";
+},
+{
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 name = Regular;
@@ -68686,6 +68722,46 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=123 --detailed-info";
+},
+{
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 interpolationWeight = 123;
@@ -68723,6 +68799,46 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=149 --detailed-info";
+},
+{
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 interpolationWeight = 149;
@@ -68762,8 +68878,44 @@ name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=176 --detailed-info";
 },
 {
-name = "New Parameter";
-value = "New Value";
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 interpolationWeight = 176;
@@ -68802,6 +68954,46 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=220 --fallback-stem-width=200 --detailed-info";
+},
+{
+name = typoAscender;
+value = "1227";
+},
+{
+name = typoDescender;
+value = "-613";
+},
+{
+name = typoLineGap;
+value = "0";
+},
+{
+name = winAscent;
+value = "1227";
+},
+{
+name = winDescent;
+value = "613";
+},
+{
+name = hheaAscender;
+value = "1227";
+},
+{
+name = hheaDescender;
+value = "-613";
+},
+{
+name = hheaLineGap;
+value = "0";
+},
+{
+name = underlineThickness;
+value = "50";
+},
+{
+name = underlinePosition;
+value = "-100";
 }
 );
 interpolationWeight = 200;
