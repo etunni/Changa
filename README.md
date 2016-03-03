@@ -21,6 +21,10 @@ To contribute to the project, please visit https://github.com/etunni/Changa/issu
 
 ### History
 
+3 March 2016 (Eduardo Tunni, Dave Crossland) Changa v2.001
+
+- Minor metadata fixes
+
 27 February 2015 (Eduardo Tunni) Changa v2.001
 
 - Expanded to 7 weights 
