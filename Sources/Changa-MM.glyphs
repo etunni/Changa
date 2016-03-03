@@ -68495,6 +68495,10 @@ name = "TTFAutohint options";
 value = "--fallback-stem-width=65 --detailed-info";
 },
 {
+name = weightClass;
+value = "275";
+},
+{
 name = typoAscender;
 value = "1227";
 },
