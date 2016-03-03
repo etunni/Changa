@@ -17,6 +17,11 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = openTypeOS2VendorID;
 value = TIPO;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2016-02-27 15:08:35 +0000";
