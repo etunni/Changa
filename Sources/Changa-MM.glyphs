@@ -1,5 +1,5 @@
 {
-.appVersion = "851";
+.appVersion = "904";
 copyright = "Copyright 2011 Eduardo Tunni (www.tipo.net.ar)";
 customParameters = (
 {
@@ -36974,7 +36974,7 @@ unicode = FEF0;
 {
 color = 4;
 glyphname = "yeh-ar";
-lastChange = "2015-12-07 21:09:31 +0000";
+lastChange = "2016-06-22 10:26:48 +0000";
 layers = (
 {
 anchors = (
@@ -37420,7 +37420,7 @@ unicode = FE8C;
 {
 color = 4;
 glyphname = "yehHamzaabove-ar.init";
-lastChange = "2015-12-07 21:09:31 +0000";
+lastChange = "2016-06-22 10:24:30 +0000";
 layers = (
 {
 anchors = (
@@ -37430,7 +37430,7 @@ position = "{180, -80}";
 },
 {
 name = exit;
-position = "{0, 35}";
+position = "{0, 45}";
 },
 {
 name = top;
@@ -37457,7 +37457,7 @@ position = "{210, -80}";
 },
 {
 name = exit;
-position = "{0, 70}";
+position = "{0, 90}";
 },
 {
 name = top;
@@ -40897,7 +40897,7 @@ unicode = FC73;
 {
 color = 4;
 glyphname = "teh_alefMaksura-ar.fina";
-lastChange = "2015-12-07 21:09:31 +0000";
+lastChange = "2016-06-22 10:26:32 +0000";
 layers = (
 {
 anchors = (
@@ -65601,7 +65601,7 @@ unicode = FBBE;
 {
 color = 4;
 glyphname = "twodotshorizontalabove-ar";
-lastChange = "2015-10-10 19:59:19 +0000";
+lastChange = "2016-06-22 10:26:48 +0000";
 layers = (
 {
 anchors = (
@@ -65659,7 +65659,7 @@ unicode = FBB4;
 {
 color = 4;
 glyphname = "twodotshorizontalbelow-ar";
-lastChange = "2015-10-10 19:59:19 +0000";
+lastChange = "2016-06-22 10:26:48 +0000";
 layers = (
 {
 anchors = (
@@ -68500,46 +68500,50 @@ value = "275";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
 interpolationWeight = 65;
+instanceInterpolations = {
+UUID0 = 1.35;
+"1124150E-252C-4727-BAB2-2837E441E30C" = -0.35;
+};
 name = ExtraLight;
 weightClass = ExtraLight;
 },
@@ -68577,46 +68581,50 @@ value = "--hinting-limit=110 --fallback-stem-width=80 --detailed-info";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
 interpolationWeight = 80;
+instanceInterpolations = {
+UUID0 = 1.2;
+"1124150E-252C-4727-BAB2-2837E441E30C" = -0.2;
+};
 name = Light;
 weightClass = Light;
 },
@@ -68654,45 +68662,48 @@ value = "--hinting-limit=150 --fallback-stem-width=100 --detailed-info";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
+instanceInterpolations = {
+UUID0 = 1;
+};
 name = Regular;
 },
 {
@@ -68729,46 +68740,50 @@ value = "--hinting-limit=150 --fallback-stem-width=123 --detailed-info";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
 interpolationWeight = 123;
+instanceInterpolations = {
+UUID0 = 0.77;
+"1124150E-252C-4727-BAB2-2837E441E30C" = 0.23;
+};
 name = Medium;
 weightClass = Medium;
 },
@@ -68806,46 +68821,50 @@ value = "--hinting-limit=150 --fallback-stem-width=149 --detailed-info";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
 interpolationWeight = 149;
+instanceInterpolations = {
+UUID0 = 0.51;
+"1124150E-252C-4727-BAB2-2837E441E30C" = 0.49;
+};
 name = SemiBold;
 weightClass = SemiBold;
 },
@@ -68883,46 +68902,50 @@ value = "--hinting-limit=150 --fallback-stem-width=176 --detailed-info";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
 interpolationWeight = 176;
+instanceInterpolations = {
+UUID0 = 0.24;
+"1124150E-252C-4727-BAB2-2837E441E30C" = 0.76;
+};
 isBold = 1;
 name = Bold;
 weightClass = Bold;
@@ -68961,46 +68984,49 @@ value = "--hinting-limit=220 --fallback-stem-width=200 --detailed-info";
 },
 {
 name = typoAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = typoDescender;
-value = "-613";
+value = -613;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = winAscent;
-value = "1227";
+value = 1227;
 },
 {
 name = winDescent;
-value = "613";
+value = 613;
 },
 {
 name = hheaAscender;
-value = "1227";
+value = 1227;
 },
 {
 name = hheaDescender;
-value = "-613";
+value = -613;
 },
 {
 name = hheaLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlineThickness;
-value = "50";
+value = 50;
 },
 {
 name = underlinePosition;
-value = "-100";
+value = -100;
 }
 );
 interpolationWeight = 200;
+instanceInterpolations = {
+"1124150E-252C-4727-BAB2-2837E441E30C" = 1;
+};
 name = ExtraBold;
 weightClass = ExtraBold;
 }
