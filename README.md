@@ -21,6 +21,10 @@ To contribute to the project, please visit https://github.com/etunni/Changa/issu
 
 ### History
 
+28 June 2016 (Eduardo Tunni) 
+
+- Minor fixes in arabic letters "yeh" and "yehHamzaabove-ar.init"
+
 3 March 2016 (Eduardo Tunni, Dave Crossland) Changa v2.001
 
 - Minor metadata fixes
