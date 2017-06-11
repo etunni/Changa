@@ -1,9 +1,5 @@
 {
 .appVersion = "1032";
-DisplayStrings = (
-"/ain-ar.medi",
-"/allah-ar"
-);
 copyright = "Copyright 2011 Eduardo Tunni (www.tipo.net.ar)";
 customParameters = (
 {
@@ -125,9 +121,9 @@ alignmentZones = (
 "{0, -10}",
 "{-300, -16}"
 );
-ascender = 1100;
+ascender = 1368;
 capHeight = 625;
-descender = -300;
+descender = -680;
 guideLines = (
 {
 angle = 180;
@@ -176,9 +172,9 @@ alignmentZones = (
 "{0, -15}",
 "{-300, -16}"
 );
-ascender = 1100;
+ascender = 1368;
 capHeight = 625;
-descender = -300;
+descender = -680;
 guideLines = (
 {
 position = "{341, -500}";
@@ -31382,7 +31378,7 @@ unicode = FEDE;
 },
 {
 glyphname = "lam-ar.medi";
-lastChange = "2017-06-11 11:11:14 +0000";
+lastChange = "2017-06-11 16:31:18 +0000";
 layers = (
 {
 anchors = (
@@ -37392,7 +37388,7 @@ unicode = FEF9;
 },
 {
 glyphname = "lam_alefHamzabelow-ar.fina";
-lastChange = "2017-06-11 11:26:08 +0000";
+lastChange = "2017-06-11 15:54:18 +0000";
 layers = (
 {
 anchors = (
@@ -37402,7 +37398,7 @@ position = "{500, -100}";
 },
 {
 name = bottom_2;
-position = "{180, -396}";
+position = "{230, -396}";
 },
 {
 name = caret_1;
@@ -37438,7 +37434,7 @@ position = "{570, -100}";
 },
 {
 name = bottom_2;
-position = "{210, -450}";
+position = "{274, -430}";
 },
 {
 name = caret_1;
@@ -38200,7 +38196,7 @@ unicode = FC6F;
 },
 {
 glyphname = "beh_yehHamzaabove-ar.fina";
-lastChange = "2017-06-06 23:03:25 +0000";
+lastChange = "2017-06-11 16:34:07 +0000";
 layers = (
 {
 anchors = (
@@ -38277,7 +38273,6 @@ layerId = "1124150E-252C-4727-BAB2-2837E441E30C";
 width = 1184;
 }
 );
-leftMetricsKey = "beh-ar.init";
 rightMetricsKey = "yehHamzaabove-ar.fina";
 },
 {
