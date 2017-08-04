@@ -1,5 +1,5 @@
 {
-.appVersion = "1034";
+.appVersion = "1045";
 copyright = "Copyright 2011 Eduardo Tunni (www.tipo.net.ar)";
 customParameters = (
 {
@@ -24,7 +24,7 @@ value = (
 );
 }
 );
-date = "2017-06-24 15:04:10 +0000";
+date = "2017-08-04 12:02:30 +0000";
 designer = "Eduardo Rodriguez Tunni";
 designerURL = "http://www.tipo.net.ar";
 disablesNiceNames = 1;
@@ -31180,7 +31180,7 @@ unicode = FECF;
 },
 {
 glyphname = "feh-ar";
-lastChange = "2017-06-10 13:41:57 +0000";
+lastChange = "2017-08-04 12:00:11 +0000";
 layers = (
 {
 anchors = (
@@ -31233,7 +31233,7 @@ unicode = 0641;
 },
 {
 glyphname = "feh-ar.fina";
-lastChange = "2017-06-10 13:42:01 +0000";
+lastChange = "2017-08-04 12:00:13 +0000";
 layers = (
 {
 anchors = (
@@ -43362,7 +43362,7 @@ rightMetricsKey = "alefWasla-ar.fina";
 },
 {
 glyphname = "beh_reh-ar.fina";
-lastChange = "2017-06-24 15:00:14 +0000";
+lastChange = "2017-08-04 12:02:13 +0000";
 layers = (
 {
 anchors = (
@@ -43848,7 +43848,7 @@ rightMetricsKey = "yehHamzaabove-ar.fina";
 },
 {
 glyphname = "peh_reh-ar.fina";
-lastChange = "2017-06-24 15:01:06 +0000";
+lastChange = "2017-08-04 12:02:15 +0000";
 layers = (
 {
 anchors = (
@@ -45298,7 +45298,7 @@ rightMetricsKey = "yehHamzaabove-ar.fina";
 },
 {
 glyphname = "seen_reh-ar";
-lastChange = "2017-06-11 17:00:34 +0000";
+lastChange = "2017-08-04 12:00:52 +0000";
 layers = (
 {
 anchors = (
@@ -45332,15 +45332,15 @@ target = "{4, 10}";
 {
 horizontal = 1;
 origin = "{1, 4}";
-target = "{3, 3}";
+target = "{2, 3}";
 },
 {
 origin = "{1, 5}";
 target = "{1, 2}";
 },
 {
-origin = "{2, 3}";
-target = "{2, 0}";
+origin = "{3, 3}";
+target = "{3, 0}";
 },
 {
 origin = "{4, 6}";
@@ -45405,19 +45405,19 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"541 0 LINE",
-"541 470 LINE",
+"461 380 LINE",
 "461 470 LINE",
-"461 0 LINE"
+"211 470 LINE",
+"211 380 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"461 380 LINE",
+"541 0 LINE",
+"541 470 LINE",
 "461 470 LINE",
-"211 470 LINE",
-"211 380 LINE"
+"461 0 LINE"
 );
 },
 {
@@ -45554,7 +45554,7 @@ unicode = FD0E;
 },
 {
 glyphname = "seen_reh-ar.fina";
-lastChange = "2017-06-24 15:01:48 +0000";
+lastChange = "2017-08-04 12:00:57 +0000";
 layers = (
 {
 anchors = (
@@ -46064,7 +46064,7 @@ unicode = FCFB;
 },
 {
 glyphname = "seen_alefMaksura-ar.fina";
-lastChange = "2017-06-24 15:02:08 +0000";
+lastChange = "2017-08-04 12:01:00 +0000";
 layers = (
 {
 anchors = (
@@ -46444,7 +46444,7 @@ unicode = FD18;
 },
 {
 glyphname = "seen_zain-ar";
-lastChange = "2017-06-24 15:02:15 +0000";
+lastChange = "2017-08-04 12:02:00 +0000";
 layers = (
 {
 anchors = (
@@ -46524,7 +46524,7 @@ width = 1370;
 },
 {
 glyphname = "seen_zain-ar.fina";
-lastChange = "2017-06-24 15:02:16 +0000";
+lastChange = "2017-08-04 12:01:27 +0000";
 layers = (
 {
 anchors = (
@@ -46765,7 +46765,7 @@ rightMetricsKey = "seen-ar.init";
 },
 {
 glyphname = "sheen_reh-ar";
-lastChange = "2017-06-11 11:32:37 +0000";
+lastChange = "2017-08-04 12:01:23 +0000";
 layers = (
 {
 anchors = (
@@ -47008,7 +47008,7 @@ rightMetricsKey = "zain-ar.fina";
 },
 {
 glyphname = "sheen_zain-ar.fina";
-lastChange = "2017-06-24 15:02:24 +0000";
+lastChange = "2017-08-04 12:01:19 +0000";
 layers = (
 {
 anchors = (
@@ -48248,7 +48248,7 @@ rightMetricsKey = "zain-ar.fina";
 },
 {
 glyphname = "noon_reh-ar.fina";
-lastChange = "2017-06-24 15:03:06 +0000";
+lastChange = "2017-08-04 12:02:20 +0000";
 layers = (
 {
 anchors = (
@@ -49625,7 +49625,7 @@ unicode = FC94;
 },
 {
 glyphname = "yehHamzaabove_reh-ar.fina";
-lastChange = "2017-06-24 15:03:24 +0000";
+lastChange = "2017-08-04 12:02:22 +0000";
 layers = (
 {
 anchors = (
@@ -69162,7 +69162,7 @@ unicode = FBB2;
 },
 {
 glyphname = "dotbelow-ar";
-lastChange = "2017-06-24 15:01:04 +0000";
+lastChange = "2017-08-04 12:02:13 +0000";
 layers = (
 {
 anchors = (
@@ -69356,7 +69356,7 @@ unicode = FBBE;
 },
 {
 glyphname = "twodotshorizontalabove-ar";
-lastChange = "2017-06-24 15:03:51 +0000";
+lastChange = "2017-08-04 12:02:15 +0000";
 layers = (
 {
 anchors = (
@@ -69460,7 +69460,7 @@ unicode = FBB5;
 },
 {
 glyphname = "threedotsdownabove-ar";
-lastChange = "2017-06-24 15:01:10 +0000";
+lastChange = "2017-08-04 12:02:15 +0000";
 layers = (
 {
 anchors = (
@@ -69516,7 +69516,7 @@ unicode = FBB8;
 },
 {
 glyphname = "threedotsdownbelow-ar";
-lastChange = "2017-06-24 15:01:10 +0000";
+lastChange = "2017-08-04 12:02:15 +0000";
 layers = (
 {
 anchors = (
@@ -69563,7 +69563,7 @@ unicode = FBB9;
 },
 {
 glyphname = "threedotsupabove-ar";
-lastChange = "2017-06-24 15:02:24 +0000";
+lastChange = "2017-08-04 12:01:23 +0000";
 layers = (
 {
 anchors = (
