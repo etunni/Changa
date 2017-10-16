@@ -561,11 +561,11 @@ value = 0;
 },
 {
 name = winDescent;
-value = 613;
+value = 553;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1154;
 }
 );
 descender = -680;
@@ -646,11 +646,11 @@ value = 0;
 },
 {
 name = winDescent;
-value = 613;
+value = 553;
 },
 {
 name = winAscent;
-value = 1158;
+value = 1154;
 }
 );
 descender = -680;
@@ -72190,46 +72190,6 @@ value = "--fallback-stem-width=65 --detailed-info";
 {
 name = weightClass;
 value = 275;
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 interpolationWeight = 65;
@@ -72271,46 +72231,6 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=110 --fallback-stem-width=80 --detailed-info";
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 interpolationWeight = 80;
@@ -72352,46 +72272,6 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=100 --detailed-info";
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 instanceInterpolations = {
@@ -72430,46 +72310,6 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=123 --detailed-info";
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 interpolationWeight = 123;
@@ -72511,46 +72351,6 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=149 --detailed-info";
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 interpolationWeight = 149;
@@ -72592,46 +72392,6 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=150 --fallback-stem-width=176 --detailed-info";
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 interpolationWeight = 176;
@@ -72674,46 +72434,6 @@ V
 {
 name = "TTFAutohint options";
 value = "--hinting-limit=220 --fallback-stem-width=200 --detailed-info";
-},
-{
-name = typoAscender;
-value = 1227;
-},
-{
-name = typoDescender;
-value = -613;
-},
-{
-name = typoLineGap;
-value = 0;
-},
-{
-name = winAscent;
-value = 1227;
-},
-{
-name = winDescent;
-value = 613;
-},
-{
-name = hheaAscender;
-value = 1227;
-},
-{
-name = hheaDescender;
-value = -613;
-},
-{
-name = hheaLineGap;
-value = 0;
-},
-{
-name = underlineThickness;
-value = 50;
-},
-{
-name = underlinePosition;
-value = -100;
 }
 );
 interpolationWeight = 200;
