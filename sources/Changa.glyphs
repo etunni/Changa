@@ -1,9 +1,5 @@
 {
 .appVersion = "1147";
-DisplayStrings = (
-"  ",
-"/gaf-ar/gaf-ar/gaf-ar.fina/gaf-ar.fina/gaf-ar.medi/gaf-ar.medi/gaf-ar.init/gaf-ar.init/peh_alefMaksura-ar.fina/peh_yeh-ar.fina/peh_yehHamzaabove-ar.fina/teh_alefMaksura-ar.fina/teh_yeh-ar.fina/teh_yehHamzaabove-ar.fina/theh_alefMaksura-ar.fina/theh_yeh-ar.fina/theh_yehHamzaabove-ar.fina/allah-ar"
-);
 copyright = "Copyright 2011 The Changa Project Authors (https://github.com/etunni/Changa)";
 customParameters = (
 {
@@ -82,12 +78,12 @@ feature subs;
 feature sups;
 feature numr;
 feature dnom;
-feature frac;
 feature ordn;
 feature init;
 feature medi;
 feature fina;
-feature rlig;
+feature sinf;
+feature frac;
 ";
 name = aalt;
 },
@@ -101,7 +97,6 @@ code = "lookup ccmp_Other_1 {
 } ccmp_Other_1;
 
 lookup ccmp_arab_1 {
-	script arab;
 	sub hamzaabove-ar damma-ar by hamzaaboveDamma-ar;
 	sub damma-ar hamzaabove-ar by hamzaaboveDamma-ar;
 	sub hamzaabove-ar dammatan-ar by hamzaaboveDammatan-ar;
@@ -131,6 +126,8 @@ lookup ccmp_arab_1 {
 	sub shadda-ar kasratan-ar by shaddaKasratan-ar;
 	sub kasratan-ar shadda-ar by shaddaKasratan-ar;
 } ccmp_arab_1;
+
+script arab;
 ";
 name = ccmp;
 },
@@ -228,10 +225,6 @@ sub eight by eight.dnom;
 sub nine by nine.dnom;
 ";
 name = dnom;
-},
-{
-code = "";
-name = xxxx;
 },
 {
 automatic = 1;
@@ -486,8 +479,38 @@ name = dlig;
 },
 {
 automatic = 1;
-code = "sub f f l by f_f_l;
-sub f f i by f_f_i;
+code = "sub zero by zeroinferior;
+sub one by oneinferior;
+sub two by twoinferior;
+sub three by threeinferior;
+sub four by fourinferior;
+sub five by fiveinferior;
+sub six by sixinferior;
+sub seven by seveninferior;
+sub eight by eightinferior;
+sub nine by nineinferior;
+";
+name = sinf;
+},
+{
+automatic = 1;
+code = "lookup FRAC {
+	sub slash by fraction;
+} FRAC;
+lookup UP {
+	sub [zero one two three four five six seven eight nine] by [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr];
+} UP;
+lookup DOWN {
+	sub fraction [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+	sub [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom] [zero.numr one.numr two.numr three.numr four.numr five.numr six.numr seven.numr eight.numr nine.numr]' by [zero.dnom one.dnom two.dnom three.dnom four.dnom five.dnom six.dnom seven.dnom eight.dnom nine.dnom];
+} DOWN;
+";
+name = frac;
+},
+{
+automatic = 1;
+code = "sub f f i by f_f_i;
+sub f f l by f_f_l;
 sub f f by f_f;
 sub f i by fi;
 sub f l by fl;
